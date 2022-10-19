@@ -1,6 +1,6 @@
 # tvmaze-vue
 
-This application has a React version as well, you can find it [here](https://github.com/alirezavalizade/tvmaze)!
+This application is built with Vue.js, there is a React version as well, you can find it [here](https://github.com/alirezavalizade/tvmaze)! You can compare how I shared state in the both application by using the framework tools.
 
 # Live demo
 
