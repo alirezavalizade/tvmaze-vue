@@ -35,7 +35,7 @@ NOTE: I let the xstate/inspector to be active in the live application so that yo
 
 ### virtualized list?
 
-I couldn't find any virtual list library which works with vue 3. If there was any I'd use virtualized list like the react version or If I had more time I'd do create a virtual list.
+I couldn't find any virtual list library which works with vue 3. If there was any I'd use virtualized list like the react version or If I had more time I'd do create a virtual list. If you look in React version you'll notice that react version is faster, the reason is there is no virtual list in this application.
 
 # Screenshot of the app
 
