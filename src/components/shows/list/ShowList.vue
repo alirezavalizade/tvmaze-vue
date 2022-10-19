@@ -21,6 +21,7 @@ const data = useSelector(showsService, getDynamicShowsWithFilter);
 const onClick = () => {
   showsService.send("LOAD_MORE");
 };
+// commment
 </script>
 
 <template>
